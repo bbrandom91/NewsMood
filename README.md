@@ -1,4 +1,4 @@
-Using vader sentiment analysis, we look at the sentiment of the past several tweets from some major news organizations. We analyze the tweets to determine the degree to which each organization is positive, negative, and neutral, as well as scoring the overall sentiment of each organization. 
+Using vader sentiment analysis, we look at the sentiment of the past several tweets from some major news organizations. We analyze the tweets to determine the degree to which each organization is positive, negative, and neutral, as well as score the overall sentiment of each organization. 
 
 ```python
 import tweepy
